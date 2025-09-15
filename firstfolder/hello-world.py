@@ -5,7 +5,4 @@ print(m)
 def name(name):
     return f"hello {name}"
 print(name("Alice"))
-lskdflksdjf
-sdkfjls
-ksjdflkdsjlfkjsdl;fj
-sldfjlskdjfl
+print("This is a new line added to the file.")
